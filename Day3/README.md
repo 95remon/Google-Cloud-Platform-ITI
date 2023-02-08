@@ -43,10 +43,16 @@
     - ![alt](images/Lab3.3/1-1.png)
     - ![alt](images/Lab3.3/1-2.png)
 
-2. and 3
+2. 
     - .
     - ![alt](images/Lab3.3/2-1%2C3-1.png)
     - ![alt](images/Lab3.3/2-2%2C3-2.png)
+
+
+3.  - .
+    - ![alt](images/Lab3.3/2-1%2C3-1.png)
+    - ![alt](images/Lab3.3/2-2%2C3-2.png)
+
 
 4.  - .
     - ![alt](images/Lab3.3/4-1.png)
@@ -57,6 +63,8 @@
 
 6.  - .
     - ![alt](images/Lab3.3/6-1.png)
+
+7.  - .
 
 8.  - .
     - ![alt](images/Lab3.3/8-1.png)
