@@ -31,48 +31,70 @@
     - ![alt](images/Lab3.2/1-3.png)
     - ![alt](images/Lab3.2/1-4.png)
 
+<br />
+
 2.  - .
     - ![alt](images/Lab3.2/2-1.png)
 
+<br />
 ---
+
 ## Lab 3.3
 
-![alt](images/Lab3.2/Q.png)
+<br />
+
+![alt](images/Lab3.3//Q.png)
 
 1.  - .
     - ![alt](images/Lab3.3/1-1.png)
     - ![alt](images/Lab3.3/1-2.png)
+
+<br />
 
 2. 
     - .
     - ![alt](images/Lab3.3/2-1%2C3-1.png)
     - ![alt](images/Lab3.3/2-2%2C3-2.png)
 
+<br />
 
 3.  - .
     - ![alt](images/Lab3.3/2-1%2C3-1.png)
     - ![alt](images/Lab3.3/2-2%2C3-2.png)
 
+<br />
 
 4.  - .
     - ![alt](images/Lab3.3/4-1.png)
     - ![alt](images/Lab3.3/4-2.png)
 
+<br />
+
 5.  - .
     - ![alt](images/Lab3.3/5-1.png)
+
+<br />
 
 6.  - .
     - ![alt](images/Lab3.3/6-1.png)
 
+<br />
+
 7.  - .
+
+<br />
 
 8.  - .
     - ![alt](images/Lab3.3/8-1.png)
     - ![alt](images/Lab3.3/8-2.png)
 
+<br />
+
 9.  - .
     - ![alt](images/Lab3.3/9-1.png)
     - ![alt](images/Lab3.3/9-2.png)
+
+<br />
 
 10. - .
     - ![alt](images/Lab3.3/10-1.png)
