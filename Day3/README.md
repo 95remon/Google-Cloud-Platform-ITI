@@ -21,6 +21,7 @@
     - ![alt](images/Lab3.1/4-1.png)
 
 ---
+
 ## Lab 3.2
 
 ![alt](images/Lab3.2/Q.png)
@@ -37,6 +38,7 @@
     - ![alt](images/Lab3.2/2-1.png)
 
 <br />
+
 ---
 
 ## Lab 3.3
